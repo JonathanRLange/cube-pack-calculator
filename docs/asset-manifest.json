@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.8c050063.chunk.js",
-    "main.js.map": "/static/js/main.8c050063.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1f757af0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1f757af0.js.map",
-    "static/css/2.f65acde2.chunk.css": "/static/css/2.f65acde2.chunk.css",
-    "static/js/2.b6b5b516.chunk.js": "/static/js/2.b6b5b516.chunk.js",
-    "static/js/2.b6b5b516.chunk.js.map": "/static/js/2.b6b5b516.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f2c7cdd808e104b0bd8ef0d1ea101184.js": "/precache-manifest.f2c7cdd808e104b0bd8ef0d1ea101184.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.f65acde2.chunk.css.map": "/static/css/2.f65acde2.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b6b5b516.chunk.js.LICENSE.txt": "/static/js/2.b6b5b516.chunk.js.LICENSE.txt"
+    "main.css": "/cube-pack-calculator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cube-pack-calculator/static/js/main.2bfd6224.chunk.js",
+    "main.js.map": "/cube-pack-calculator/static/js/main.2bfd6224.chunk.js.map",
+    "runtime-main.js": "/cube-pack-calculator/static/js/runtime-main.7081fe15.js",
+    "runtime-main.js.map": "/cube-pack-calculator/static/js/runtime-main.7081fe15.js.map",
+    "static/css/2.f65acde2.chunk.css": "/cube-pack-calculator/static/css/2.f65acde2.chunk.css",
+    "static/js/2.b6b5b516.chunk.js": "/cube-pack-calculator/static/js/2.b6b5b516.chunk.js",
+    "static/js/2.b6b5b516.chunk.js.map": "/cube-pack-calculator/static/js/2.b6b5b516.chunk.js.map",
+    "index.html": "/cube-pack-calculator/index.html",
+    "precache-manifest.8ff52ffdf5b0c6c0d1433e602a7b90f4.js": "/cube-pack-calculator/precache-manifest.8ff52ffdf5b0c6c0d1433e602a7b90f4.js",
+    "service-worker.js": "/cube-pack-calculator/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/cube-pack-calculator/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/cube-pack-calculator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b6b5b516.chunk.js.LICENSE.txt": "/cube-pack-calculator/static/js/2.b6b5b516.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f757af0.js",
+    "static/js/runtime-main.7081fe15.js",
     "static/css/2.f65acde2.chunk.css",
     "static/js/2.b6b5b516.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8c050063.chunk.js"
+    "static/js/main.2bfd6224.chunk.js"
   ]
 }
